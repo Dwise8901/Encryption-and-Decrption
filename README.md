@@ -1,3 +1,9 @@
+
+
+
+
+![Encrpt and Decrypt](https://github.com/Dwise8901/Encryption-and-Decrption/assets/56543292/a75f05dd-30d3-481d-b40a-88d745c11ae8)
+
 A simple python program to Encrypt and Decrypt Message base on Encryption key given.
 
 There are two encryption/decryption algorithms available:
